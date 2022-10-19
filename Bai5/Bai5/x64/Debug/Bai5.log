@@ -1,0 +1,7 @@
+﻿  IO.cpp
+  KhachSan.cpp
+C:\Users\nguye\OneDrive\Desktop\C++ FPT\Code_Examples\BT\Bai5\Bai5\KhachSan.cpp(105,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nguye\OneDrive\Desktop\C++ FPT\Code_Examples\BT\Bai5\Bai5\KhachSan.cpp(112,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Phong.cpp
+  Generating Code...
+  Bai5.vcxproj -> C:\Users\nguye\OneDrive\Desktop\C++ FPT\Code_Examples\BT\Bai5\x64\Debug\Bai5.exe
